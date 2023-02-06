@@ -1,0 +1,173 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f0f0f0;
+  color: rgb(228, 147, 41);
+}
+.nav {
+  float: right;
+}
+.menu {
+  width: 80%;
+  margin: auto;
+}
+.nav ul li {
+  display: inline-block;
+}
+.menu img {
+  width: 140px;
+  height: auto;
+  margin: 30px 0;
+}
+.nav ul li {
+  text-decoration: none;
+  list-style: none;
+  margin: 50px 15px 10px;
+  color: rgb(228, 147, 41);
+}
+.row {
+  display: flex;
+  margin: auto;
+}
+.text {
+  width: 80%;
+  margin: auto;
+}
+.text-col {
+  width: 100%;
+  margin: 50px 30px 20px 0;
+}
+.text-col img {
+  width: 80%;
+  margin: auto;
+  position: relative;
+  left: 120px;
+  border-radius: 15px;
+}
+.text-col h1 {
+  position: relative;
+  top: 100px;
+  line-height: 40px;
+  color: rgb(228, 147, 41);
+}
+.left {
+  position: relative;
+  left: 150px;
+}
+.cof {
+  width: 80%;
+  margin: auto;
+  margin-top: 80px;
+}
+.cof h1 {
+  text-align: center;
+  margin: 20px 0;
+  color: rgb(228, 147, 41);
+  font-size: 30px;
+}
+.cof img {
+  width: 300px;
+  border-radius: 15px;
+}
+.cof i {
+  margin: 0 15px;
+}
+.cof p {
+  display: inline-block;
+  float: right;
+  font-size: 23px;
+  position: relative;
+  left: -300px;
+  top: 100px;
+}
+.beautiful {
+  margin-top: 30px;
+}
+.flavour {
+  width: 80%;
+  margin: auto;
+  color: black;
+}
+.flavour h1 {
+  text-align: center;
+  margin: 50px 0;
+}
+.flavour-col {
+  width: 100%;
+  margin: 0 30px 0 0;
+  padding: 30px;
+  background-color: white;
+  border-radius: 15px;
+}
+.flavour-col h2 {
+  text-align: center;
+  color: black;
+  background-color: white;
+  margin: 25px 0;
+}
+.flavour-col button {
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 20px 0;
+  color: black;
+  border-radius: 10px;
+}
+/* .flavour-col div {
+  width: 100%;
+  line-height: 35px;
+} */
+/* .flavour-col span {
+  width: 100%;
+  margin: auto;
+} */
+.flavour-col h5 {
+  display: inline-block;
+  float: right;
+  color: black;
+  background-color: white;
+}
+.flavour-col div {
+  line-height: 40px;
+  background-color: white;
+}
+.flavour-col span {
+  color: black;
+  background-color: white;
+}
+.flavour-col button:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+.footer {
+  width: 80%;
+  margin: 50px auto;
+}
+.footer-col {
+  width: 100%;
+  margin: auto;
+  margin-left: 100px;
+}
+.footer-col h1 {
+  position: relative;
+  left: 30px;
+  margin: 20px;
+}
+.footer-col p {
+  line-height: 35px;
+}
+.footer-col i {
+  margin: 0 10px 0 0;
+}
+.us {
+  position: relative;
+  top: -35px;
+}
+.icon {
+  display: inline-block;
+}
+.icon i {
+  margin: 0 10px 0 25px;
+  font-size: 25px;
+}
